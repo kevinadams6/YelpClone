@@ -4,7 +4,7 @@
 
 **Yelp clone** displays a list of search results from the Yelp API and displays the results in a scrollable list. 
 
-Time spent: **1** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Functionality 
 
@@ -15,8 +15,7 @@ The following **required** functionality is completed:
 
 The following **extensions** are implemented:
 
-* [ ] User sees a descriptive error message if internet is not available
-* [ ] List anything else that you did to improve the app functionality or design!
+* [X] User sees a descriptive error message if internet is not available
 
 ## Video Walkthrough
 
