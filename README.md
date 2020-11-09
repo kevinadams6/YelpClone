@@ -10,8 +10,8 @@ Time spent: **1** hours spent in total
 
 The following **required** functionality is completed:
 
-* [ ] Ability to query the Yelp API to get results from a search query
-* [ ] The search results are displayed in a RecyclerView
+* [X] Ability to query the Yelp API to get results from a search query
+* [X] The search results are displayed in a RecyclerView
 
 The following **extensions** are implemented:
 
