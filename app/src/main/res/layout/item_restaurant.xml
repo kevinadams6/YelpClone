@@ -13,12 +13,12 @@
         android:layout_marginStart="8dp"
         android:textSize="20sp"
         android:textStyle="bold"
-        app:layout_constraintStart_toEndOf="@+id/tvThumbnail"
+        app:layout_constraintStart_toEndOf="@+id/imageView"
         app:layout_constraintTop_toTopOf="parent"
         tools:text="Charley St" />
 
     <ImageView
-        android:id="@+id/tvThumbnail"
+        android:id="@+id/imageView"
         android:layout_width="100dp"
         android:layout_height="100dp"
         app:layout_constraintStart_toStartOf="parent"
